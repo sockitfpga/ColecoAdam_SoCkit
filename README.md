@@ -1,3 +1,11 @@
+#  [Coleco Adam](https://en.wikipedia.org/wiki/Coleco_Adam) for [SoCkit (MiSTer) Platform](https://github.com/sockitfpga/MiSTer_SoCkit) 
+
+SoCkit port by Somhic from original MiSTer core https://github.com/MiSTer-devel/ColecoAdam_MiSTer
+
+Follows original README.
+
+
+
 # [Coleco Adam](https://en.wikipedia.org/wiki/Coleco_Adam) for [MiSTer](https://mister-devel.github.io/MkDocs_MiSTer/)
 
 This core is a conversion of the Colecovision core into verilog. Adam support was added by alanswx and spacexguy (asicguy).  
